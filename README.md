@@ -1,5 +1,5 @@
 <!-- Banner del proyecto -->
-<img width="1161" height="417" alt="Portada del proyecto" src="https://github.com/user-attachments/assets/5834512e-12c7-4d6c-8aa3-90e6ad5cb918" />
+<img width="1161" height="417" alt="Portada del proyecto" src="https://github.com/romina-landin/Amigo-Secreto-/blob/main/assets/Portada_README.png" />
 
 <!-- Insignias de estado y metadatos -->
 ![Estado](https://img.shields.io/badge/Estado-Completado-brightgreen)
