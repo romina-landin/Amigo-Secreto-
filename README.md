@@ -3,8 +3,7 @@
 
 <!-- Insignias de estado y metadatos -->
 ![Estado](https://img.shields.io/badge/Estado-Completado-brightgreen)
-![Repositorio](https://img.shields.io/badge/GitHub-romina-landin-black?logo=github)
-![Alura](https://img.shields.io/badge/%23ALURA-000000?style=flat&logo=hashnode&logoColor=white)
+
 
 # Amigo Secreto – Mini App
 
